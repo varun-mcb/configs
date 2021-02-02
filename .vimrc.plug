@@ -1,0 +1,11 @@
+call plug#begin('~/.vim/plugged')
+
+"Night Owl theme
+Plug 'haishanh/night-owl.vim'
+
+"number toggle - auto switch between hybrid line numbers and absolute line numbers
+Plug 'jeffkreeftmeijer/vim-numbertoggle'
+
+call plug#end()
+
+
